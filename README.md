@@ -1,8 +1,8 @@
-[![Social banner for jh3y](https://github.com/teamcocoe/profile/tree/master/assets/cocoe.gif)](https://ashutosh.github.io)
+[![Social banner for cocoe](https://github.com/teamcocoe/profile/blob/master/assets/cocoe.gif)](https://ashutosh.github.io)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey.
+we are team cocoe
 </p>
-<p align='center'>For enquiries, reach out @ cocoateam@gmail.com</p>
+<p align='center'>For enquiries, reach out @ cocoeteam@gmail.com</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
