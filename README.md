@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/teamcocoe/profile/master/assets/cocoe.gif)](https://ashutosh.github.io)
+[![Social banner for jh3y](https://github.com/teamcocoe/profile/tree/master/assets/cocoe.gif)](https://ashutosh.github.io)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
